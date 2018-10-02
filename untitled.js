@@ -65,3 +65,5 @@
     }
     if ($('html').hasClass('mq-pc')) var kepMouseWheelSmooth = new KepMouseWheelSmooth();
     });
+
+    $('body').hide();
